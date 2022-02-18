@@ -2,7 +2,7 @@
   "name": "edittext",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next -p 80",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

@@ -23,7 +23,7 @@ export default props => {
                 Copyright © 2022. All Rights Reserved.
             </span>
             <div className={styles.contact}>
-            <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>  <a href="mailto:daniel-silva70@hotmail.com">Contact</a>
+            <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>  <a href="mailto:daniel.comercial22@outlook.com">Contact</a>
             </div>
         </footer>
        </>
